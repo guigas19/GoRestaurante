@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.selecoes.com.br/wp-content/uploads/2019/05/hamburguer-760x450.jpg",
+      "name": "Hamburguer de pombo",
+      "price": "40,00",
+      "description": "Sanduíche realizado apenas com as partes nobres dos pombos das praças",
+      "id": 5,
+      "available": true
     }
   ]
 }
